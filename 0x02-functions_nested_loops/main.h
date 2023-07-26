@@ -1,4 +1,4 @@
-#include <stdio.h>
+#ifndef main_header_file
 #define main_h
 
 int _putchar(char);
