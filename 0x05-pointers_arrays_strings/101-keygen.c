@@ -8,7 +8,7 @@
  * Return: Alwyas 0 (Success)
  */
 int main(void)
-
+{
 	int pass[100];
 	int i, sum, n;
 
